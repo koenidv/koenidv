@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey 👋
+
+- Always up for a cool project!
+- Working on an app to access Hesse's edu portal
+- Currently learning Kotlin
 
 <!--
 **koenidv/koenidv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
